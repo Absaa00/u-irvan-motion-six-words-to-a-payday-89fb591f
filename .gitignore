@@ -1,0 +1,15 @@
+# Six-word payday story build — payday-89fb591f scratch
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+output/
+entry.txt
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.venv/
+venv/
+node_modules/
+.bundle/
